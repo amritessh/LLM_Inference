@@ -82,4 +82,4 @@ Strategy:
 - Optimize GPU utilization over response time
 Result: Cost-efficient, higher overall capacity
 
-:
+:For ML specifically, the most critical takeaway is that inference performance is often memory-bound rather than compute-bound, meaning how efficiently you move data matters more than raw computational power.
